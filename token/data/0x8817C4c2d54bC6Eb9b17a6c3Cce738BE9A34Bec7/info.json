@@ -1,1 +1,11 @@
-dddd
+{
+  "name": "Test",
+  "symbol": "TRIAL",
+  "description": "Turkchain test token",
+  "website": "https://turkchain1919.com",
+  "email": "turk@turkscan.com",
+  "twitter": "https://x.com/turkchain1919",
+  "telegram": "https://t.me/turkchain1919",
+  "github": "https://github.com/Turkchain1919",
+  "logo": "https://raw.githubusercontent.com/Turkchain1919/Turkscan/main/token/data/0x8817C4c2d54bC6Eb9b17a6c3Cce738BE9A34Bec7/TRIAL.png"
+}
