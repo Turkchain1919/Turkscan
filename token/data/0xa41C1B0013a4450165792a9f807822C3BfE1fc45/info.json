@@ -1,0 +1,29 @@
+{
+  "chainId": 1919,
+  "address": "0xa41C1B0013a4450165792a9f807822C3BfE1fc45",
+
+  "name": "Balans TRF 1",
+  "symbol": "TTT1",
+
+  "decimals": 18,
+
+  "verified": true,
+
+  "type": "ERC20",
+
+  "description": "Turkchain TURK Wrapped Token",
+
+  "website": "https://turkchain1919.com",
+
+  "explorer": "https://turkscan.com",
+
+  "email": "turk@turkscan.com",
+
+  "twitter": "https://x.com/turkchain1919",
+
+  "telegram": "https://t.me/turkchain1919",
+
+  "github": "https://github.com/Turkchain1919",
+
+  "logo": "https://raw.githubusercontent.com/Turkchain1919/Turkscan/main/token/data/0xa41C1B0013a4450165792a9f807822C3BfE1fc45/TTTT.png"
+}
