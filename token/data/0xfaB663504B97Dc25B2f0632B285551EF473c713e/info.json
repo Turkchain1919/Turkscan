@@ -1,0 +1,29 @@
+{
+  "chainId": 1919,
+  "address": "0xfaB663504B97Dc25B2f0632B285551EF473c713e",
+
+  "name": "ytytyt",
+  "symbol": "ytytyt",
+
+  "decimals": 18,
+
+  "verified": true,
+
+  "type": "ERC20",
+
+  "description": "Turkchain TURK Wrapped Token",
+
+  "website": "https://turkchain1919.com",
+
+  "explorer": "https://turkscan.com",
+
+  "email": "turk@turkscan.com",
+
+  "twitter": "https://x.com/turkchain1919",
+
+  "telegram": "https://t.me/turkchain1919",
+
+  "github": "https://github.com/Turkchain1919",
+
+  "logo": "https://raw.githubusercontent.com/Turkchain1919/Turkscan/main/token/data/0xfaB663504B97Dc25B2f0632B285551EF473c713e/TURK.png"
+}
