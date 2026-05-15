@@ -1,0 +1,29 @@
+{
+  "chainId": 1919,
+  "address": "0xCa84F19df74E9222a98C931F2Ab538Fc82B7EbE9",
+
+  "name": "TEST",
+  "symbol": "TEST",
+
+  "decimals": 18,
+
+  "verified": true,
+
+  "type": "ERC20",
+
+  "description": "Turkchain TURK Wrapped Token",
+
+  "website": "https://turkchain1919.com",
+
+  "explorer": "https://turkscan.com",
+
+  "email": "turk@turkscan.com",
+
+  "twitter": "https://x.com/turkchain1919",
+
+  "telegram": "https://t.me/turkchain1919",
+
+  "github": "https://github.com/Turkchain1919",
+
+  "logo": "https://raw.githubusercontent.com/Turkchain1919/Turkscan/main/token/data/0xCa84F19df74E9222a98C931F2Ab538Fc82B7EbE9/TURK.png"
+}
