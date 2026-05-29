@@ -1,0 +1,29 @@
+{
+  "chainId": 1919,
+  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+
+  "name": "Tether USD",
+  "symbol": "USDT",
+
+  "decimals": 6,
+
+  "verified": true,
+
+  "type": "ERC20",
+
+  "description": "Turkchain USDT Wrapped Token",
+
+  "website": "https://turkchain1919.com",
+
+  "explorer": "https://turkscan.com",
+
+  "email": "turk@turkscan.com",
+
+  "twitter": "https://x.com/turkchain1919",
+
+  "telegram": "https://t.me/turkchain1919",
+
+  "github": "https://github.com/Turkchain1919",
+
+  "logo": "https://raw.githubusercontent.com/Turkchain1919/Turkscan/main/token/data/0xdAC17F958D2ee523a2206206994597C13D831ec7/USDT.png"
+}
